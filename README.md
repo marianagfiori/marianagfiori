@@ -1,5 +1,5 @@
 ### Olá, eu sou a Mariana Fiori!🙋🏻‍♀️
-💻Estudante de Engenharia de Software, aspirante a cientista de dados.
+💻Estudante de Engenharia de Software, aspirante a engenheira de dados.
 👾
 
 Tecnologias que estou aprendendo:
